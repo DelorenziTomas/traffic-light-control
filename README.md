@@ -9,6 +9,9 @@
 
 **CITTR** (Control Inteligente de Tráfico en Tiempo Real) es un proyecto que utiliza el modelo de Computer Vision YOLO para detectar vehículos en tiempo real y optimizar el flujo de tráfico en intersecciones. El objetivo es reducir los tiempos de espera, el consumo de combustible y la emisión de gases de efecto invernadero.
 
+#### Demostración
+![Demostración del sistema de control de tráfico](demo/demo_trafico.gif)
+
 #### Motivación
 El objetivo principal es aplicar técnicas de Deep Learning para resolver un problema cívico común, demostrando el potencial de la IA para crear ciudades más eficientes y sostenibles.
 
@@ -28,6 +31,9 @@ El objetivo principal es aplicar técnicas de Deep Learning para resolver un pro
 ### English Version 🇬🇧
 
 **CITTR** (Real-Time Intelligent Traffic Control) is a project that uses the YOLO Computer Vision model to detect vehicles in real-time and optimize traffic flow at intersections. The goal is to reduce waiting times, fuel consumption, and greenhouse gas emissions.
+
+#### Demonstration
+![Traffic control system demonstration](demo/demo_trafico.gif)
 
 #### Motivation
 The main objective is to apply Deep Learning techniques to solve a common civic problem, demonstrating the potential of AI to create more efficient and sustainable cities.
