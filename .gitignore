@@ -1,0 +1,17 @@
+# Entorno virtual y cache de Python
+env1/
+venv/
+__pycache__/
+
+# Modelos entrenados
+*.pt
+
+# --- CARPETAS GRANDES A IGNORAR ---
+1_Dataset/
+3_Resultados/
+Videos/
+# ------------------------------------
+
+# Archivos de datos sueltos
+*.mp4
+*.csv

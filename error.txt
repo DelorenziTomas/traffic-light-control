@@ -1,0 +1,12 @@
+tdelorenzi@rog:~/1_yolo/2_CITTR$ git remote add origin git@github.com:DelorenziTomas/traffic-light-control.git
+tdelorenzi@rog:~/1_yolo/2_CITTR$ git push -u origin main
+Enumerando objetos: 17630, listo.
+Contando objetos: 100% (17630/17630), listo.
+Compresión delta usando hasta 20 hilos
+Comprimiendo objetos: 100% (17627/17627), listo.
+remote: fatal: pack exceeds maximum allowed size (2.00 GiB)
+error: desempaquetado remoto falló: index-pack failed
+To github.com:DelorenziTomas/traffic-light-control.git
+ ! [remote rejected]   main -> main (failed)
+error: falló el empuje de algunas referencias a 'github.com:DelorenziTomas/traffic-light-control.git'
+tdelorenzi@rog:~/1_yolo/2_CITTR$ 
